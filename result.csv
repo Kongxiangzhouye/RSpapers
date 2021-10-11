@@ -1,0 +1,327 @@
+AAAI	2020	A Knowledge-Aware Attentional Reasoning Network for Recommendation.pdf
+AAAI	2020	An Attentional Recurrent Neural Network for Personalized Next Location Recommendation.pdf
+AAAI	2020	Asymmetrical Hierarchical Networks with Attentive Interactions for Interpretable Review-Based Recommendation.pdf
+AAAI	2020	Attention©\guide Walk Model in Heterogeneous Information Network for Multi- style Recommendation.pdf
+AAAI	2020	Contextual-Bandit Based Personalized Recommendation with Time-Varying User Interests.pdf
+AAAI	2020	Deep Match to Rank Model for Personalized Click-Through Rate Prediction.pdf
+AAAI	2020	Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution.pdf
+AAAI	2020	Diversified Interactive Recommendation with Implicit Feedback.pdf
+AAAI	2020	Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation.pdf
+AAAI	2020	Enhancing Personalized Trip Recommendation with Attractive Routes.pdf
+AAAI	2020	Fast Adaptively Weighted Matrix Factorization for Recommendation with Implicit Feedback.pdf
+AAAI	2020	Improved Algorithms for Conservative Exploration in Bandits.pdf
+AAAI	2020	Incremental Fairness in Two-Sided Market Platforms- On Smoothly Updating Recommendations.pdf
+AAAI	2020	Leveraging Title-Abstract Attentive Semantics for Paper Recommendation.pdf
+AAAI	2020	Linear Bandits with Feature Feedback.pdf
+AAAI	2020	Memory Augmented Graph Neural Networks for Sequential Recommendation.pdf
+AAAI	2020	Multi-Component Graph Convolutional Collaborative Filtering.pdf
+AAAI	2020	Multi-Feature Discrete Collaborative Filtering for Fast Cold-Start Recommendation.pdf
+AAAI	2020	PEIA- Personality and Emotion Integrated Attentive Model for Music Recommendation on Social Media Platforms.pdf
+AAAI	2020	Question-Driven Purchasing Propensity Analysis for Recommendation.pdf
+AAAI	2020	Revisiting Graph based Collaborative Filtering- A Linear Residual Graph Convolutional Network Approach.pdf
+AAAI	2020	Sequential Recommendation with Relation-Aware Kernelized Self-Attention.pdf
+AAAI	2020	Stochastically Robust Personalized Ranking for LSH Recommendation Retrieval.pdf
+AAAI	2020	Symmetric Metric Learning with Adaptive Margin for Recommendation.pdf
+AAAI	2020	Table2Analysis- Modeling and Recommendation of Common Analysis Patterns for Multi- Dimensional Data.pdf
+AAAI	2020	Towards Comprehensive Recommender Systems- Time-Aware Unified Recommendations Based on Listwise Ranking of Implicit Cross-Network Data.pdf
+AAAI	2020	Towards Hands-Free Visual Dialog Interactive Recommendation.pdf
+AAAI	2020	Where to Go Next- Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation.pdf
+AAAI	2021	A General Offline Reinforcement Learning Framework for Interactive Recommendation.pdf
+AAAI	2021	A Hybrid Bandit Framework for Diversified Recommendation.pdf
+AAAI	2021	A User-Adaptive Layer Selection Framework for Very Deep Sequential Recommender Models.pdf
+AAAI	2021	Asynchronous Stochastic Gradient Descent for Extreme-Scale Recommender Systems.pdf
+AAAI	2021	Cold-start Sequential Recommendation via Meta Learner.pdf
+AAAI	2021	DEAR- Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems.pdf
+AAAI	2021	Deep Transfer Tensor Decomposition with Orthogonal Constraint for Recommender Systems.pdf
+AAAI	2021	Degree Planning with PLAN-BERT- Multi-Semester Recommendation Using Future Courses of Interest.pdf
+AAAI	2021	Detecting Beneficial Feature Interactions for Recommender Systems.pdf
+AAAI	2021	Disposable Linear Bandits for Online Recommendations.pdf
+AAAI	2021	Dual Sparse Attention Network For Session-based Recommendation.pdf
+AAAI	2021	Dynamic Memory based Attention Network for Sequential Recommendation.pdf
+AAAI	2021	Enhancing E-commerce Recommender System Adaptability with Online Deep Controllable Learning-To-Rank.pdf
+AAAI	2021	Fairness-aware News Recommendation with Decomposed Adversarial Learning.pdf
+AAAI	2021	FedRec++- Lossless Federated Recommendation with Explicit Feedback.pdf
+AAAI	2021	Graph Heterogeneous Multi-Relational Recommendation.pdf
+AAAI	2021	Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation.pdf
+AAAI	2021	Hierarchical Negative Binomial Factorization for Recommender Systems on Implicit Feedback.pdf
+AAAI	2021	Hierarchical Reinforcement Learning for Integrated Recommendation.pdf
+AAAI	2021	Intelligent Recommendations for Citizen Science.pdf
+AAAI	2021	Knowledge-aware Coupled Graph Neural Network for Social Recommendation.pdf
+AAAI	2021	Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation.pdf
+AAAI	2021	Knowledge-Enhanced Top-K Recommendation in Poincar¨¦ Ball.pdf
+AAAI	2021	Learning to Recommend from Sparse Data via Generative User Feedback.pdf
+AAAI	2021	Noninvasive Self-attention for Side Information Fusion in Sequential Recommendation.pdf
+AAAI	2021	On Estimating Recommendation Evaluation Metrics under Sampling.pdf
+AAAI	2021	Out-of-Town Recommendation with Travel Intention Modeling.pdf
+AAAI	2021	Personalized Adaptive Meta Learning for Cold-Start User Preference Prediction.pdf
+AAAI	2021	PREMERE- Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation.pdf
+AAAI	2021	Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation.pdf
+AAAI	2021	RevMan- Revenue-aware Multi-task Online Insurance Recommendation.pdf
+AAAI	2021	Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation.pdf
+AAAI	2021	U-BERT- Pre-training User Representations for Improved Recommendation.pdf
+AAAI	2021	Who You Would Like to Share With- A Study of Share Recommendation in Social E-commerce.pdf
+ACL	2020	Dynamic Online Conversation Recommendation.pdf
+ACL	2020	Fine-grained Interest Matching for Neural News Recommendation.pdf
+ACL	2020	Graph Neural News Recommendation with Unsupervised Preference Disentanglement.pdf
+ACL	2020	MIND- A Large-scale Dataset for News Recommendation.pdf
+ACL	2020	Towards Conversational Recommendation over Multi-Type Dialogs.pdf
+ACL	2021	HieRec- Hierarchical User Interest Modeling for Personalized News Recommendation.pdf
+ACL	2021	Personalized Transformer for Explainable Recommendation.pdf
+ACL	2021	PP-Rec- News Recommendation with Personalized User Interest and Time-aware News Popularity.pdf
+ACL	2021	Quotation Recommendation and Interpretation Based on Transformation from Queries to Quotations.pdf
+ACL	2021	RevCore- Review-Augmented Conversational Recommendation.pdf
+AI	2020	Argumentative explanations for interactive recommendations.pdf
+ICDE	2020	Billion-scale_Recommendation_with_Heterogeneous_Side_Information_at_Taobao.pdf
+ICDE	2020	Group_Recommendation_with_Latent_Voting_Mechanism.pdf
+ICDE	2020	PoisonRec_An_Adaptive_Data_Poisoning_Framework_for_Attacking_Black-box_Recommender_Systems.pdf
+ICDE	2020	Price-aware_Recommendation_with_Graph_Convolutional_Networks.pdf
+ICDE	2020	Syndrome-aware_Herb_Recommendation_with_Multi-Graph_Convolution_Network.pdf
+ICDE	2020	Task_Deployment_Recommendation_with_Worker_Availability.pdf
+ICDE	2020	Toward_Recommendation_for_Upskilling_Modeling_Skill_Improvement_and_Item_Difficulty_in_Action_Sequences.pdf
+ICDE	2021	Attacking Black-box Recommendations via Copying Cross-domain User Profiles.pdf
+ICDE	2021	Explore_User_Neighborhood_for_Real-time_E-commerce_Recommendation.pdf
+ICDE	2021	Group-Buying_Recommendation_for_Social_E-Commerce.pdf
+ICDE	2021	Improving_Conversational_Recommender_System_by_Pretraining_Billion-scale_Knowledge_Graph.pdf
+ICDE	2021	IntelliTag_An_Intelligent_Cloud_Customer_Service_System_Based_on_Tag_Recommendation.pdf
+ICDE	2021	IPS_Unified_Profile_Management_for_Ubiquitous_Online_Recommendations.pdf
+ICDE	2021	Knowledge-Aware Group Representation Learning.pdf
+ICDE	2021	Large-scale_Fake_Click_Detection_for_E-commerce_Recommendation_Systems.pdf
+ICDE	2021	Learnings from a Retail Recommendation System.pdf
+ICDE	2021	Multi-Behavior_Enhanced_Recommendation_with_Cross-Interaction_Collaborative_Relation_Modeling.pdf
+ICDE	2021	Multi-Facet_Recommender_Networks_with_Spherical_Optimization.pdf
+ICDE	2021	Reliable_Recommendation_with_Review-level_Explanations.pdf
+ICDE	2021	Sequential_Recommendation_on_Dynamic_Heterogeneous_Information_Network.pdf
+ICDE	2021	Variational_Self-attention_Network_for_Sequential_Recommendation.pdf
+ICML	2020	Graph Convolutional Network for Recommendation.pdf
+ICML	2020	Optimization and Analysis of the pAp@k Metric for Recommender Systems.pdf
+ICML	2020	Optimizing Long-term Social Welfare in Recommender Systems.pdf
+ICML	2020	Ordinal Non-negative Matrix Factorization for Recommendation.pdf
+ICML	2021	Correcting Exposure Bias for Link Recommendation.pdf
+ICML	2021	Learning Self-Modulating Attention in Continuous Time Space with.pdf
+ICML	2021	Quantifying Availability and Discovery in Recommender Systems via.pdf
+ICML	2021	Towards Open-World Recommendation.pdf
+IJCAI	2020	A Dual Input-aware Factorization Machine for CTR Prediction.pdf
+IJCAI	2020	A Graphical and Attentional Framework for Dual-Target Cross-Domain.pdf
+IJCAI	2020	Adversarial Oracular Seq2seq Learning for Sequential Recommendation.pdf
+IJCAI	2020	An Interactive Multi-Task Learning Framework for Next POI.pdf
+IJCAI	2020	Collaborative Self-Attention Network for Session-based Recommendation.pdf
+IJCAI	2020	Contextualized Point-of-Interest Recommendation.pdf
+IJCAI	2020	Deep Feedback Network for Recommendation.pdf
+IJCAI	2020	Discovering Subsequence Patterns for Next POI Recommendation.pdf
+IJCAI	2020	Explainable Recommendation via Interpretable Feature Mapping and Evaluation.pdf
+IJCAI	2020	HyperNews Simultaneous News Recommendation and Active-Time Prediction.pdf
+IJCAI	2020	Intent Preference Decoupling for User Representation.pdf
+IJCAI	2020	Internal and Contextual Attention Network for Cold-start Multi-channel.pdf
+IJCAI	2020	Learning Personalized Itemset Mapping for Cross-Domain Recommendation.pdf
+IJCAI	2020	Memory Augmented Neural Model for Incremental Session-based.pdf
+IJCAI	2020	Methodological Issues in Recommender Systems Research (Extended Abstract).pdf
+IJCAI	2020	Neural Tensor Model for Learning Multi-Aspect Factors.pdf
+IJCAI	2020	Synthesizing Aspect-Driven Recommendation Explanations from Reviews.pdf
+IJCAI	2020	TopicKA Generating Commonsense Knowledge-Aware Dialogue Responses.pdf
+IJCAI	2020	Towards Explainable Conversational Recommendation.pdf
+IJCAI	2020	User Modeling with Click Preference and Reading Satisfaction.pdf
+IJCAI	2021	AMEIR Automatic Behavior Modeling, Interaction Exploration.pdf
+IJCAI	2021	Cross-Domain Recommendation Challenges, Progress, and Prospects.pdf
+IJCAI	2021	DA-GCN A Domain-aware Attentive Graph Convolution Network for.pdf
+IJCAI	2021	Discovering Collaborative Signals for Next POI Recommendation with Iterative.pdf
+IJCAI	2021	Does Every Data Instance Matter Enhancing Sequential Recommendation by Eliminating Unreliable Data.pdf
+IJCAI	2021	Exploring Periodicity and Interactivity in Multi-Interest Framework for.pdf
+IJCAI	2021	Graph Learning based Recommender Systems A Review.pdf
+IJCAI	2021	Improving Sequential Recommendation Consistency with.pdf
+IJCAI	2021	MFNP A Meta-optimized Model for Few-shot Next POI Recommendation.pdf
+IJCAI	2021	On Sampled Metrics for Item Recommendation (Extended Abstract).pdf
+IJCAI	2021	Pattern-enhanced Contrastive Policy Learning Network.pdf
+IJCAI	2021	Preference-Adaptive Meta-Learning for Cold-Start Recommendation.pdf
+IJCAI	2021	Recent Advances in Heterogeneous Relation Learning for Recommendation.pdf
+IJCAI	2021	SafeDrug Dual Molecular Graph Encoders for Recommending Effective and.pdf
+IJCAI	2021	Self-Supervised Adversarial Distribution Regularization for.pdf
+IJCAI	2021	UNBERT User-News Matching BERT for News Recommendation.pdf
+IJCAI	2021	User-as-Graph User Modeling with Heterogeneous Graph Pooling.pdf
+SIGMOD	2021	Agile and Accurate CTR Prediction Model Training for Massive-Scale Online Advertising Systems.pdf
+TKDE	2020	A Hierarchical Attention Model for Social Contextual Image Recommendation.pdf
+TKDE	2020	A Hybrid Discriminative Mixture Model for Cumulative Citation Recommendation.pdf
+TKDE	2020	A Hybrid E-Learning Recommendation Approach Based on Learners- Influence Propagation.pdf
+TKDE	2020	A Joint Two-Phase Time-Sensitive Regularized Collaborative Ranking Model for Point of Interest Recommendation.pdf
+TKDE	2020	Addressing the Item Cold-Start Problem by Attribute-Driven Active Learning.pdf
+TKDE	2020	Adversarial Training Towards Robust Multimedia Recommender System.pdf
+TKDE	2020	CVTM A Content-Venue-Aware Topic Model for Group Event Recommendation.pdf
+TKDE	2020	Deep Learning Driven Venue Recommender for Event-Based Social Networks.pdf
+TKDE	2020	Dynamic Connection-Based Social Group Recommendation.pdf
+TKDE	2020	Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation.pdf
+TKDE	2020	Fast and Low Memory Cost Matrix Factorization Algorithm- Analysis- and Case Study.pdf
+TKDE	2020	GERF A Group Event Recommendation Framework Based on Learning-to-Rank.pdf
+TKDE	2020	MV-RNN A Multi-View Recurrent Neural Network for Sequential Recommendation.pdf
+TKDE	2020	Personalized Video Recommendation Using Rich Contents from Videos.pdf
+TKDE	2020	Recurrent Poisson Factorization for Temporal Recommendation.pdf
+TKDE	2020	Similarity Search for Dynamic Data Streams.pdf
+TKDE	2020	Top-k Dominating Queries on Skyline Groups.pdf
+TKDE	2020	Translation-Based Sequential Recommendation for Complex Users on Sparse Data.pdf
+TKDE	2021	A Hybrid Recommender System for Improving Automatic Playlist Continuation.pdf
+TKDE	2021	A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems.pdf
+TKDE	2021	A Review on Dimensionality Reduction for Multi-Label Classification.pdf
+TKDE	2021	BS-SC An Unsupervised Approach for Detecting Shilling Profiles in Collaborative Recommender Systems.pdf
+TKDE	2021	CAPER Context-Aware Personalized Emoji Recommendation.pdf
+TKDE	2021	Co-Attention Memory Network for Multimodal Microblog-s Hashtag Recommendation.pdf
+TKDE	2021	Column-Wise Element Selection for Computationally Efficient Nonnegative Coupled Matrix Tensor Factorization.pdf
+TKDE	2021	Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection.pdf
+TKDE	2021	Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks.pdf
+TKDE	2021	Deep Variational Matrix Factorization with Knowledge Embedding for Recommendation System.pdf
+TKDE	2021	Discrete Matrix Factorization and Extension for Fast Item Recommendation.pdf
+TKDE	2021	Enhancing Recommender Systems With a Stimulus-Evoked Curiosity Mechanism.pdf
+TKDE	2021	Event-Participant and Incremental Planning over Event-Based Social Networks.pdf
+TKDE	2021	Graph Ranking Auditing Problem Definition and Fast Solutions.pdf
+TKDE	2021	Influence Analysis in Evolving Networks A Survey.pdf
+TKDE	2021	Learning to Recommend With Multiple Cascading Behaviors.pdf
+TKDE	2021	Mixture Matrix Approximation for Collaborative Filtering.pdf
+TKDE	2021	Multi-Site User Behavior Modeling and Its Application in Video Recommendation.pdf
+TKDE	2021	Neural Attention Frameworks for Explainable Recommendation.pdf
+TKDE	2021	On Both Cold-Start and Long-Tail Recommendation with Social Data.pdf
+TKDE	2021	Photo2Trip Exploiting Visual Contents in Geo-Tagged Photos for Personalized Tour Recommendation.pdf
+TKDE	2021	POLAR-- Active One-Shot Personalized Article Recommendation.pdf
+TKDE	2021	Product Quantized Collaborative Filtering.pdf
+TKDE	2021	Route Recommendations for Intelligent Transportation Services.pdf
+TKDE	2021	Sampler Design for Bayesian Personalized Ranking by Leveraging View Data.pdf
+TKDE	2021	Social-Enhanced Attentive Group Recommendation.pdf
+TKDE	2021	Statistically Robust Evaluation of Stream-Based Recommender Systems.pdf
+TKDE	2021	The Framework of Personalized Ranking on Poisson Factorization.pdf
+TKDE	2021	Unveiling Hidden Implicit Similarities for Cross-Domain Recommendation.pdf
+TOIS	2020	Deep Learning for Sequential Recommendation Algorithms, Influential Factors, and Evaluations.pdf
+TOIS	2020	Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network.pdf
+TOIS	2020	Toward Dynamic User Intention Temporal Evolutionary Effects of Item Relations in Sequential Recommendation.pdf
+TOIS	2021	A Graph Theoretic Approach for Multi-Objective Budget Constrained Capsule Wardrobe Recommendation.pdf
+TOIS	2021	A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research.pdf
+TOIS	2021	Bilateral Filtering Graph Convolutional Network for Multi-relational Social Recommendation in the Power-law Networks.pdf
+TOIS	2021	CHA Categorical Hierarchy-based Attention for Next POI Recommendation.pdf
+TOIS	2021	Collaborative Reflection-Augmented Autoencoder Network for Recommender Systems.pdf
+TOIS	2021	Context-aware Target Apps Selection and Recommendation for Enhancing Personal Mobile Assistants.pdf
+TOIS	2021	CoSam An Efficient Collaborative Adaptive Sampler for Recommendation.pdf
+TOIS	2021	Effects of Personalized and Aggregate Top-N Recommendation Lists on User Preference Ratings.pdf
+TOIS	2021	Exploiting Group Information for Personalized Recommendation with Graph Neural Networks.pdf
+TOIS	2021	From Users¡¯ Intentions to IF-THEN Rules in the Internet of Things.pdf
+TOIS	2021	Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation.pdf
+TOIS	2021	HyperSoRec Exploiting Hyperbolic User and Item Representations with Multiple Aspects for Social-aware Recommendation.pdf
+TOIS	2021	Integrating Collaboration and Leadership in Conversational Group Recommender Systems.pdf
+TOIS	2021	Interactive Sequential Basket Recommendation by Learning Basket Couplings and PositiveNegative Feedback.pdf
+TOIS	2021	Knowledge-Guided Disentangled Representation Learning for Recommender Systems.pdf
+TOIS	2021	Learning a Hierarchical Intent Model for Next-Item Recommendation.pdf
+TOIS	2021	Learning from Substitutable and Complementary Relations for Graph-based Sequential Product Recommendation.pdf
+TOIS	2021	LegalGNN Legal Information Enhanced Graph Neural Network for Recommendation.pdf
+TOIS	2021	Modeling Multiple Coexisting Category-Level Intentions for Next Item Recommendation.pdf
+TOIS	2021	Multi-Graph Heterogeneous Interaction Fusion for Social Recommendation.pdf
+TOIS	2021	Multi-interest Diversification for End-to-end Sequential Recommendation.pdf
+TOIS	2021	Multilingual Review-aware Deep Recommender System via Aspect-based Sentiment Analysis.pdf
+TOIS	2021	MyrrorBot A Digital Assistant Based on Holistic User Models for Personalized Access to Online Services.pdf
+TOIS	2021	Popularity Bias in False-positive Metrics for Recommender Systems Evaluation.pdf
+TOIS	2021	Seamlessly Unifying Attributes and Items Conversational Recommendation for Cold-start Users.pdf
+TOIS	2021	Sequential-Knowledge-Aware Next POI Recommendation A Meta-Learning Approach.pdf
+TOIS	2021	SPEX A Generic Framework for Enhancing Neural Social Recommendation.pdf
+TOIS	2021	The Simpson¡¯s Paradox in the Offline Evaluation of Recommendation Systems.pdf
+TOIS	2021	Toward Comprehensive User and Item Representations via Three-tier Attention Network.pdf
+TPAMI	2020	Heterogeneous_Recommendation_via_Deep_Low-Rank_Sparse_Collective_Factorization.pdf
+TPAMI	2021	Meta-Wrapper_Differentiable_Wrapping_Operator_for_User_Interest_Selection_in_CTR_Prediction.pdf
+VLDB	2020	Fast and Effective Distribution-Key Recommendation for.pdf
+VLDB	2020	Multi-Modal Transportation Recommendation with.pdf
+VLDBJ	2020	IncrementalPreferenceAdjustmentAGraph-theoreticalApproach.pdf
+VLDBJ	2020	MakingDataVisualizationMoreEffectiveASurvey.pdf
+VLDBJ	2021	FairnessInRankingsAndRecommendationsAnOverview.pdf
+VLDBJ	2021	Fast-adaptingAndPrivacy-preservingFederatedRecommenderSystem.pdf
+VLDBJ	2021	VisuallyAwareRecommendationWithAestheticFeatures.pdf
+WWW	2020	A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data.pdf
+WWW	2020	A Generalized and Fast-converging Non-negative Latent Factor Model for Predicting User Preferences in Recommender Systems.pdf
+WWW	2020	Adaptive Hierarchical Translation-based Sequential Recommendation.pdf
+WWW	2020	Addressing the Target Customer Distortion Problem in Recommender Systems.pdf
+WWW	2020	Attentive Sequential Models of Latent Intent for Next Item Recommendation.pdf
+WWW	2020	Clustering and Constructing User Coresets to Accelerate Large-scale Top-K Recommender Systems.pdf
+WWW	2020	Deep Global and Local Generative Model for Recommendation.pdf
+WWW	2020	Deep Transfer Learning for Search and Recommendation.pdf
+WWW	2020	Directional and Explainable Serendipity Recommendation.pdf
+WWW	2020	Dual Learning for Explainable Recommendation- Towards Unifying User Preference Prediction and Review Generation.pdf
+WWW	2020	Dual Side Deep Context-aware Modulation for Social Recommendation.pdf
+WWW	2020	D¨¦j¨¤ vu- A Contextualized Temporal Attention Mechanism for Sequential Recommendation.pdf
+WWW	2020	Earn More Social Attention- User Popularity Based Tag Recommendation System.pdf
+WWW	2020	Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation.pdf
+WWW	2020	Exploiting Aesthetic Preference in Deep Cross Networks for Cross-domain Recommendation.pdf
+WWW	2020	FairRec- Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.pdf
+WWW	2020	Few-Shot Learning for New User Recommendation in Location-based Social Networks.pdf
+WWW	2020	Future Data Helps Training- Modeling Future Contexts for Session-based Recommendation.pdf
+WWW	2020	Graph Enhanced Representation Learning for News Recommendation.pdf
+WWW	2020	Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation.pdf
+WWW	2020	Hierarchical Visual-aware Minimax Ranking Based on Co-purchase Data for Personalized Recommendation.pdf
+WWW	2020	Hybrid Reciprocal Recommender Systems Integrating Item-to-User Principles in Reciprocal Recommendation.pdf
+WWW	2020	Influence Function based Data Poisoning Attacks to Top-N Recommender Systems.pdf
+WWW	2020	Intention Modeling from Ordered and Unordered Facets for Sequential Recommendation.pdf
+WWW	2020	Keywords Generation Improves E-Commerce Session-based Recommendation.pdf
+WWW	2020	Latent Linear Critiquing for Conversational Recommender Systems.pdf
+WWW	2020	Layered Graph Embedding for Entity Recommendation using Wikipedia in the Yahoo! Knowledge Graph.pdf
+WWW	2020	Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems.pdf
+WWW	2020	Learning the Structure of Auto-Encoding Recommenders.pdf
+WWW	2020	Learning to Hash with Graph Neural Networks for Recommender Systems.pdf
+WWW	2020	Leveraging Behavioral Heterogeneity Across Markets for Cross-Market Training of Recommender Systems.pdf
+WWW	2020	LightRec- A Memory and Search-Efficient Recommender System.pdf
+WWW	2020	MetaSelector- Meta-Learning for Recommendation with User-Level Adaptive Model Selection.pdf
+WWW	2020	Microsoft Recommenders- Best Practices for Production-Ready Recommendation Systems.pdf
+WWW	2020	Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations.pdf
+WWW	2020	Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices.pdf
+WWW	2020	Off-policy Learning in Two-stage Recommender Systems.pdf
+WWW	2020	OutfitNet- Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning.pdf
+WWW	2020	paper2repo- GitHub Repository Recommendation for Academic Papers.pdf
+WWW	2020	PARS- Peers-aware Recommender System.pdf
+WWW	2020	Personalized Employee Training Course Recommendation with Career Development Awareness.pdf
+WWW	2020	PKE- A Model for Recommender Systems in Online Service Platform.pdf
+WWW	2020	Practical Data Poisoning Attack against Next-Item Recommendation.pdf
+WWW	2020	Recommendations under Multi-Product Purchase Behavior.pdf
+WWW	2020	Recommending Themes for Ad Creative Design via Visual-Linguistic Representations.pdf
+WWW	2020	Reinforced Negative Sampling over Knowledge Graph for Recommendation.pdf
+WWW	2020	RNR- A Generic Bayesian-based Framework for Enhancing Top-N Recommender Systems.pdf
+WWW	2020	Social Attentive Network for Live Stream Recommendation.pdf
+WWW	2020	Social Network Influence Ranking via Embedding Network Interactions for User Recommendation.pdf
+WWW	2020	The Structure of Social Influence in Recommender Networks.pdf
+WWW	2020	Towards Controllable Explanation Generation for Recommender Systems via Neural Template.pdf
+WWW	2020	Understanding User Behavior For Document Recommendation.pdf
+WWW	2020	Weakly Supervised Attention for Hashtag Recommendation using Graph Data.pdf
+WWW	2020	When Recommender Systems Meet Fleet Management- Practical Study in Online Driver Repositioning System.pdf
+WWW	2021	A Model of Two Tales- Dual Transfer Learning Framework for Improved Long-tail Item Recommendation.pdf
+WWW	2021	A Recommender System for Crowdsourcing Food Rescue Platforms.pdf
+WWW	2021	A Workflow Analysis of Context-driven Conversational Recommendation.pdf
+WWW	2021	Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.pdf
+WWW	2021	Adversarial Item Promotion- Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start.pdf
+WWW	2021	AutoDim- Field-aware Embedding Dimension Searchin Recommender Systems.pdf
+WWW	2021	Bidirectional Distillation for Top-K Recommender System.pdf
+WWW	2021	C-Rex A Comprehensive System for Recommending In-Text Citations with Explanations.pdf
+WWW	2021	Combining Explicit Entity Graph with Implicit Text Information for News Recommendation.pdf
+WWW	2021	ConceptGuide- Supporting Online Video Learning with Concept Map-based Recommendation of Learning Path.pdf
+WWW	2021	Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning.pdf
+WWW	2021	Debiasing Career Recommendations with Neural Fair Collaborative Filtering.pdf
+WWW	2021	DeepRec- On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce.pdf
+WWW	2021	DGCN- Diversified Recommendation with Graph Convolutional Networks.pdf
+WWW	2021	Disentangling User Interest and Conformity for Recommendation with Causal Embedding.pdf
+WWW	2021	Drug Package Recommendation via Interaction-aware Graph Induction.pdf
+WWW	2021	Dual Side Deep Context-aware Modulation for Social Recommendation.pdf
+WWW	2021	ELIXIR- Learning from User Feedback on Explanations to Improve Recommender Models.pdf
+WWW	2021	Fast Linking of Mathematical Wikidata Entities in Wikipedia Articles Using Annotation Recommendation.pdf
+WWW	2021	FINN- Feedback Interactive Neural Network for Intent Recommendation.pdf
+WWW	2021	FM2- Field-matrixed Factorization Machines for Recommender Systems.pdf
+WWW	2021	Future-Aware Diverse Trends Framework for Recommendation.pdf
+WWW	2021	Graph Embedding for Recommendation against Attribute Inference Attacks.pdf
+WWW	2021	Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning.pdf
+WWW	2021	Interest-aware Message-Passing GCN for Recommendation.pdf
+WWW	2021	Large-scale Comb-K Recommendation.pdf
+WWW	2021	Learning Fair Representations for Recommendation- A Graph-based Perspective.pdf
+WWW	2021	Learning Heterogeneous Temporal Patterns of User Preferencefor Timely Recommendation.pdf
+WWW	2021	Learning Intents behind Interactions with Knowledge Graph for Recommendation.pdf
+WWW	2021	Leveraging Review Properties for Effective Recommendation.pdf
+WWW	2021	Linear-Time Self Attention with Codeword Histogram for Efficient Recommendation.pdf
+WWW	2021	Neural Collaborative Reasoning.pdf
+WWW	2021	Personalized Approximate Pareto-Efficient Recommendation.pdf
+WWW	2021	Rabbit Holes and Taste Distortion Distribution-Aware Recommendation with Evolving Interests.pdf
+WWW	2021	Random Walks with Erasure- Diversifying Personalized Recommendations on Social and Information Networks.pdf
+WWW	2021	Reinforcement Recommendation with User Multi-aspect Preference.pdf
+WWW	2021	RetaGNN- Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation.pdf
+WWW	2021	Session-aware Linear Item-Item Models for Session-based Recommendation.pdf
+WWW	2021	STAN- Spatio-Temporal Attention Network for Next Location Recommendation.pdf
+WWW	2021	Task-adaptive Neural Process for User Cold-Start Recommendation.pdf
+WWW	2021	The Interaction between Political Typology and Filter Bubbles in News Recommendation Algorithms.pdf
+WWW	2021	Toward the Next Generation of News Recommender Systems.pdf
+WWW	2021	Towards Content Provider Aware Recommender Systems- A Simulation Study on the Interplay between User and Provider Utilities.pdf
+WWW	2021	User-oriented Fairness in Recommendation.pdf
+WWW	2021	Variation Control and Evaluation for Generative Slate Recommendations.pdf
