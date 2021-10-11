@@ -26,6 +26,7 @@ if __name__ == "__main__":
             with open("result.csv", "a+", 100000) as f:
                 filename = filename.replace("\xad", " ")
                 filename = filename.replace("\u2217", "")
+                filename = filename.replace(".pdf", "")
                 print(filename)
                 f.write(task[len(task) - 2] + "\t" + task[len(task) - 1] + "\t" + filename + "\n")
         # for filename in filenames:
